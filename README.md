@@ -1,8 +1,8 @@
 # GreenTrees
 GreenTrees created by Patryk 'UltiPro' Wójtowicz using HTML and CSS.
 
-Simple webpage.
+Simple website.
 
 # Preview
 
-![Webpage preview gif](GreenTrees.gif)
+![Website preview gif](GreenTrees.gif)
