@@ -1,8 +1,8 @@
 # GreenTrees
-GreenTrees webpage for learn HTML and CSS by Patryk 'UltiPro' Wójtowicz.
+GreenTrees created by Patryk 'UltiPro' Wójtowicz using HTML and CSS.
 
-Just download and enjoy :>
+Simple Webpage.
 
-# Little Preview
+# Preview
 
-![Webpage gif preview](GreenTrees.gif)
+![Webpage preview gif](GreenTrees.gif)
