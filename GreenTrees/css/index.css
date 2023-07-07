@@ -141,7 +141,7 @@ main h2 {
     box-shadow: 10px 10px 10px var(--black);
 }
 
-[data-info]::before{
+[data-info]::before {
     content: attr(data-info);
     position: absolute;
     left: 0%;
@@ -218,7 +218,7 @@ main ul li {
     list-style: none;
 }
 
-main{
+main {
     margin-bottom: 80px;
 }
 
