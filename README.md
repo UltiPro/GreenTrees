@@ -5,4 +5,4 @@ Simple website.
 
 # Preview
 
-![Website preview gif](GreenTrees.gif)
+![GreenTrees preview gif](GreenTrees.gif)
